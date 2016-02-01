@@ -1,0 +1,1 @@
+_Feline Gaze_, 2009, 48 x 38 in. spray paint and stain on panel

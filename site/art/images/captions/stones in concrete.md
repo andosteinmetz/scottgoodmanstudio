@@ -1,0 +1,1 @@
+_Stones in Concrete_ (study), 2011, 11 x 14 in. latex on wood panel

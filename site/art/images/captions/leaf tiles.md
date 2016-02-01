@@ -1,0 +1,1 @@
+_Leaf Tiles_, 2011, Spray paint on paper, 33 3⁄4 “ x 47 1⁄2”

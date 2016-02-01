@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Scott Goodman</title>
+
+    <link rel="stylesheet" href="../lightbox/css/lightbox.css">
+    <link rel="stylesheet" href="../style.css">
+
+    <script src="../lightbox/js/jquery-1.11.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.3/jquery-ui.min.js"></script>
+    <!--<script src="../Sortable-master/Sortable.js"></script>-->
+    <script src="../lightbox/js/lightbox.min.js"></script>
+    <script src="../js/main.js"></script>
+    <script>
+        $(function() {
+            $( "#portfolio" ).sortable();
+            //$( "#portfolio" ).disableSelection();
+        });
+
+    </script>
+</head>
+<body>
+<header class="pageheader">
+    <!--<h1><a href="/">Studio Jojo Li</a></h1>-->
+    <nav>
+        <ul class="inline-list">
+            <li><a href="mailto:scottpgoodman@gmail.com">scottpgoodman@gmail.com</a></li>
+            <li><a href="">CV</a></li>
+            <li><a href="">GOOD WORK GALLERY</a></li>
+            <li><a href="">DESIGN INSTALLED</a></li>
+            <li><a href="">DADDY</a></li>
+            <li><a class="admin" href="#" id="write">Save changes</a></li>
+            <li><a class="admin" href="#" id="build">Build</a></li>
+            <li><a class="admin" href="#" id="add">Add</a></li>
+        </ul>
+    </nav>
+    <div id="overlay" class="hidden">
+        <a id="hideOverlay">x</a>
+        <ul id="messages"></ul>
+    </div>
+</header>
+<section class="portfolio" id="portfolio">
