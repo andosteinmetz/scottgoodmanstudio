@@ -5,27 +5,28 @@
     <title>Scott Goodman Studio</title>
 </head>
 <body>
-    <ul>
-        <li><a href="/art/reorder.html">Portfolio Editor</a></li>
-    </ul>
     <div>
         <pre>
         HOWTO
 
-        Rearrange Posts:
         1 • open Terminal app, and type the letters “cd” followed by a space
         2 • drag and drop the scottgoodmanstudio.com folder into the Terminal, and then hit ENTER
         3 • type "node app", and hit ENTER
         4 • navigate to http://localhost:3001/admin/ in a web browser
-        5 • choose the category you want to edit
 
-        6 • to add new images, drop images into site/art/images/fullsize and thumbnails into site/art/images/thumbs
+        Add Images:
+        6 • drop full-size images into site/art/images/fullsize and thumbnails into site/art/images/thumbs
         7 • click ADD once you’ve added images into their folders
 
-        8 • drag and drop images into the order of your liking
-        9 • click SAVE
-        10 • click BUILD
-        11 • upload new images and revised index.html files via FTP. Alternately, you can re-upload the entire folders, but this will take longer to re-upload all of your images.
+        Add Captions:
+        8 • create a new plain text file (in Text Edit: Format > Make Plain Text), and save it with the same name as the image, but with the extension .md in the images/captions folder.
+        9 • click "ADD"
+
+        10 • click SAVE
+        11 • click BUILD
+        12 • upload new images and revised index.html files via FTP. Alternately, you can re-upload the entire folders, but this will take longer to re-upload all of your images.
+
+
 
         <!--Create a New Category:
         • navigate to the site directory and create a new folder with the name of the new category
@@ -37,5 +38,8 @@
         • follow steps 8 - 11 from “Rearrange Posts”-->
         </pre>
     </div>
+    <ul>
+        <li><a href="/art/reorder.html">Portfolio Editor</a></li>
+    </ul>
 </body>
 </html>

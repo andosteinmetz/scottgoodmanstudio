@@ -16,7 +16,9 @@ function markupBuilder(path){
         return i.charAt(0) !== '.';
     });
 
-    var linkOpen = '<a class="item" data-lightbox="portfolio" data-title="" href="';
+    var divOpen = '<div>';
+    var divClose= '</div>';
+    var linkOpen = '<a class="item" data-lightbox="portfolio" data-title="" href="'; // not using b/c title needed to be added for captions
     var imgOpen = '<img src="';
     var tagClose = '">';
     var linkClose = '<\/a>';
