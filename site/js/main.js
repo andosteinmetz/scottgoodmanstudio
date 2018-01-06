@@ -98,7 +98,7 @@ function addImages(images){
         return link;
     });
     els.forEach(function(el){
-        portfolio.appendChild(el);
+        portfolio.insertBefore(el, portfolio.firstChild);
     });
 };
 
