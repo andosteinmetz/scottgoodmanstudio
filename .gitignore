@@ -1,0 +1,6 @@
+**/.DS_Store
+site/*
+!site/js
+!site/style.css
+!site/lightbox
+
