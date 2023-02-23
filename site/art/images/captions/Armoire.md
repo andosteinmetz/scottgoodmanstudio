@@ -1,1 +1,0 @@
-_Armoire_, 2009, enamel spraypaint stain and polyurethane on plywood panel, 33 3⁄4 “ x 47 1⁄2”

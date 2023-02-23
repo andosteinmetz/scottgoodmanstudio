@@ -1,1 +1,0 @@
-_Gray Cabinet Set_ (detail), 94 x 85 1/8 in. acrylic on canvas

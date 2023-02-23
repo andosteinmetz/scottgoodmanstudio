@@ -1,1 +1,0 @@
-_Houses on Green_, 2009, 20 x 24 in. latex on panel

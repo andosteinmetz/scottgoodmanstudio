@@ -1,1 +1,0 @@
-_Tree and window_, 2008, 48 x 60 in. acrylic spray paint and enamel paint on panel

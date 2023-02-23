@@ -1,1 +1,0 @@
-_Tree and Windows II_, 2009, 38 x 48 in. spray paint and stain on panel
