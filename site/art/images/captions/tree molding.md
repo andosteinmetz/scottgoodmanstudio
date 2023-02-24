@@ -1,1 +1,0 @@
-_Tree Molding_, 2009, 8 x 12 ft. custom molding latex paint on wall

@@ -1,1 +1,0 @@
-_Cat on Rug_, 2011, Spray-paint wood-stain and polyurethane on panel, 48 x 72 in.

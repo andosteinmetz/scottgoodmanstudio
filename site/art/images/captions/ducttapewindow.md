@@ -1,1 +1,0 @@
-_Tarped Window_, 2011, 18 x 24 in. latex on panel

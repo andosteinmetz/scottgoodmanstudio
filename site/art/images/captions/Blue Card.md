@@ -1,1 +1,0 @@
-_Blue Card_, 2013, 23 x 42, acrylic on canvas

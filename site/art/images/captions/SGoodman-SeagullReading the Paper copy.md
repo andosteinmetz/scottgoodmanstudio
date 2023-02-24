@@ -1,1 +1,0 @@
-_Seagull Reading the Paper_, 2010, 48 x 36 in. enamel and lolyurethane on wood Panel

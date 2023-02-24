@@ -1,6 +1,5 @@
 **/.DS_Store
-site/*
-!site/js
-!site/style.css
-!site/lightbox
+site/art/images/captions/*
+site/art/images/fullsize/*
+site/art/images/thumbs/*
 

@@ -1,1 +1,0 @@
-_Trellis II_, 2009, 38 x 48 in. spray paint, acrylic, stain on panel
