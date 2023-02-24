@@ -1,0 +1,1 @@
+_Red Card_, 2013, 60 x 43, acrylic on canvas over panel

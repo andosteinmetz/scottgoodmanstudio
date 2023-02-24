@@ -1,0 +1,1 @@
+_Caged Window 2_ (detail), 2012 36 x 48 in. acrylic on canvas

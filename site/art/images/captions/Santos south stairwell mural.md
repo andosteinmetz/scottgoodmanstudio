@@ -1,0 +1,1 @@
+_Tile wall_, 2015, approx 22 ft x 47 ft, Ultraviolet and acrylic on sheetrock wall

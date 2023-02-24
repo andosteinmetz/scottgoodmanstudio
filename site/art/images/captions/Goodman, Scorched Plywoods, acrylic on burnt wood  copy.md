@@ -1,0 +1,1 @@
+_Scorched Plywoods_, 2005, 42 x 62 in. acrylic and burnt plywood panel

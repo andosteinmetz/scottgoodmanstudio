@@ -1,0 +1,1 @@
+_Wall_, 2011, 48 x 60 in. oil on canvas
